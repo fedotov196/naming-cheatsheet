@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kettanaito/naming-cheatsheet 9">
+  <a href="https://github.com/kettanaito/naming-cheatsheet 19">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
